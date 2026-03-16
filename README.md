@@ -1,2 +1,5 @@
 # bloom-filter-impl-py
-Zero-dependency Python implementation.
+
+Bloom filter with optimal hash count
+
+Zero-dependency Python. Stdlib only.
